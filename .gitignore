@@ -12,7 +12,6 @@ node_modules/
 
 # Local development
 .vscode/
-playground.ts
 picnic-app/
 consumer-test/
 picnic-web/
